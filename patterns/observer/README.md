@@ -3,6 +3,8 @@
 ## Другие названия
 
 - Observer
+- Subscriber
+- Consuber
 
 ## Семейство
 
