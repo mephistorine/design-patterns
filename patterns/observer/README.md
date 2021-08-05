@@ -4,7 +4,7 @@
 
 - Observer
 - Subscriber
-- Consuber
+- Consumer
 
 ## Семейство
 
