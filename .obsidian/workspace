@@ -119,14 +119,14 @@
   "active": "6d08854516099ce3",
   "lastOpenFiles": [
     "README.md",
+    "patterns/singleton/README.md",
+    "patterns/singleton/Untitled.md",
     "patterns/strategy/README.md",
     "patterns/observer/README.md",
     "patterns/strategy/Untitled.md",
     "patterns/factory/abstract-factory.md",
     "patterns/factory/Untitled.md",
     "patterns/factory/factory-method.md",
-    "patterns/decorator/README.md",
-    "patterns/decorator/Untitled.md",
-    "common/README.md"
+    "patterns/decorator/README.md"
   ]
 }
