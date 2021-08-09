@@ -5,6 +5,7 @@
 - Поведенческие ^behavioural
 	- [[patterns/observer/README|Наблюдатель]]
 		Инверсия распространения изменений
+	- [[patterns/command/README|Команда]]
 - Структурные ^structural
 	- [[factory-method|Фабричный метод]]
 		Делегирование создания объекта субклассам
