@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6d08854516099ce3",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "patterns/adapter/README.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "2a2b6ec6e9e5340a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "patterns/observer/README.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -87,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patterns/adapter/README.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,13 +105,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6d08854516099ce3",
+  "active": "2a2b6ec6e9e5340a",
   "lastOpenFiles": [
-    "patterns/adapter/Untitled.md",
     "README.md",
+    "patterns/observer/README.md",
+    "patterns/adapter/Untitled.md",
     "patterns/command/README.md",
     "patterns/strategy/README.md",
-    "patterns/observer/README.md",
     "patterns/command/Untitled.md",
     "patterns/singleton/README.md",
     "patterns/singleton/Untitled.md",

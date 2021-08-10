@@ -10,6 +10,7 @@
 	- [[factory-method|Фабричный метод]]
 		Делегирование создания объекта субклассам
 	- [[abstract-factory|Абстрактная фабрика]]
+	- [[patterns/adapter/README|Адаптер]]
 - Порождающие ^creational
 	- [[patterns/strategy/README|Стратегия]]
 	- [[patterns/singleton/README|Одиночка]]
